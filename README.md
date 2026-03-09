@@ -117,7 +117,7 @@ If you like this project, consider **starring the repository ⭐**
 
 ## 📬 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link](https://www.linkedin.com/feed/
+- LinkedIn: www.linkedin.com/in/shivam-yadav69
 - GitHub: https://github.com/yourusername](https://github.com/SHIVAM-YADU
 
 ---
